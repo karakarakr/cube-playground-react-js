@@ -1,3 +1,12 @@
+# Cube playground ReactJS + R3F
+<img width="1086" height="789" alt="зображення" src="https://github.com/user-attachments/assets/49111127-9ff0-4eba-b19e-37c041e3f887" />
+Simple playground to spin and rotate cube with mouse.
+
+Click - change color.
+Mouse move - cube follows.
+ArrowUp/ArrowDown - change scale.
+Mouse wheel - rotate cube.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
